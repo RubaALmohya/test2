@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi
+=======
+Hello ruba.
+>>>>>>> 0cd62a18ec5bedebb1c943bf3e7c9d2436744d03
